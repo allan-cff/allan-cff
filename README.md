@@ -1,6 +1,6 @@
 # :wave: Hey ! I'm Allan 
 * :large_blue_circle: french student
-* :birthday: 18
+* :birthday: 19
 * :biking_man: cyclist
 
 <div align="center">
