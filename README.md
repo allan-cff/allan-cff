@@ -7,7 +7,7 @@
 
 ## :octocat: How github sees me :
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allan-cff&theme=vision-friendly-dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-allan-cff.vercel.app/api?username=allan-cff&theme=vision-friendly-dark&hide_border=true" />
   
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isenbot&repo=isenbot-mongodb&theme=vision-friendly-dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-allan-cff.vercel.app/api/pin/?username=isenbot&repo=isenbot-mongodb&theme=vision-friendly-dark&hide_border=true" />
 
 </div>
 
@@ -27,11 +27,11 @@
 
 ## :v: My favorites languages :
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-cff&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-allan-cff.vercel.app/api/top-langs/?username=allan-cff&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 
 ## :hourglass_flowing_sand: How my week's going :
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=allan_cff&theme=vision-friendly-dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-allan-cff.vercel.app/api/wakatime?username=allan_cff&theme=vision-friendly-dark&hide_border=true" />
   
 ## :rocket: Technologies stack :
   </div>
