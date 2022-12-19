@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=100&color=CD9734&multiline=true&width=460&height=220&lines=class+Allan+extends+Developper+%7B;%E2%80%82%E2%80%82%E2%80%82%E2%80%82constructor()+%7B;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82super();%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82this.hobby+%3D+%22Cycling%22;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82this.favoriteLanguage+%3D+%22Javascript%22;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82this.age+%3D+19;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82this.nationality+%3D+%22French%22;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%7D;%7D" alt="Typing SVG" /></a>
 </p>
 <details>
-  <summary><h2 align="center"> :dart: How github sees me :</h2></summary>
+  <summary align="center"><h2> :dart: How github sees me :</h2></summary>
     <p align="center">
       <img src="https://github-readme-stats-allan-cff.vercel.app/api?username=allan-cff&theme=vision-friendly-dark&hide_border=true" />
     </p>
@@ -21,19 +21,19 @@
     </p>
 </details>
 <details>
-  <summary><h2 align="center"> :v: My favorites languages :</h2></summary>
+  <summary align="center"><h2> :v: My favorites languages :</h2></summary>
     <p align="center">
       <img src="https://github-readme-stats-allan-cff.vercel.app/api/top-langs/?username=allan-cff&layout=compact&theme=vision-friendly-dark&hide_border=true" />
     </p>
 </details>
 <details>
-  <summary><h2 align="center"> :hourglass_flowing_sand: How my week's going :</h2></summary>
+  <summary align="center"><h2> :hourglass_flowing_sand: How my week's going :</h2></summary>
     <p align="center">
       <img src="https://github-readme-stats-allan-cff.vercel.app/api/wakatime?username=allan_cff&theme=vision-friendly-dark&hide_border=true&langs_count=5" />
     </p>
 </details>
 <details open>
-  <summary><h2 align="center"> :rocket: Technologies stack :</h2></summary>
+  <summary align="center"><h2> :rocket: Technologies stack :</h2></summary>
     <h4  align="left"> Languages :</h4>
       <p align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>  
