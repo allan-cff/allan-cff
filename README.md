@@ -24,6 +24,7 @@
   <summary align="center"><h2> :v: My favorites languages :</h2></summary>
     <p align="center">
       <img src="https://github-readme-stats-allan-cff.vercel.app/api/top-langs/?username=allan-cff&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+      <br>based on my repos only :)
     </p>
 </details>
 <details>
