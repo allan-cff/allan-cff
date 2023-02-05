@@ -4,8 +4,7 @@
 <h4>I like to build random sort of apps for fun.</h4>
 <h4>Take a look !</h4>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=100&color=CD9734&multiline=true&width=460&height=220&lines=class+Allan+extends+Developper+%7B;%E2%80%82%E2%80%82%E2%80%82%E2%80%82constructor()+%7B;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82super();%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82this.hobby+%3D+%22Cycling%22;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82this.favoriteLanguage+%3D+%22Javascript%22;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82this.age+%3D+19;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82%E2%80%82this.nationality+%3D+%22French%22;%E2%80%82%E2%80%82%E2%80%82%E2%80%82%7D;%7D" alt="Typing SVG" /></a>
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=CD9734&multiline=true&width=480&height=230&lines=class+Allan+extends+Developper+%7B;%E2%80%88%E2%80%88constructor+()+%7B;%E2%80%88%E2%80%88%E2%80%88%E2%80%88super+();%E2%80%88%E2%80%88%E2%80%88%E2%80%88this.hobby+%3D+%22Cycling%22;%E2%80%88%E2%80%88%E2%80%88%E2%80%88this.age+%3D+20;%E2%80%88%E2%80%88%E2%80%88%E2%80%88this.favoriteLanguage+%3D+%22JavaScript%22;%E2%80%88%E2%80%88%E2%80%88%E2%80%88this.nationality+%3D+%22French%22;%E2%80%88%E2%80%88%7D;%7D" alt="Typing SVG" /></a>
 <details>
   <summary align="center"><h2> :dart: How github sees me :</h2></summary>
     <p align="center">
