@@ -29,7 +29,7 @@
 <details>
   <summary align="center"><h2> :hourglass_flowing_sand: How my week's going :</h2></summary>
     <p align="center">
-      <img src="https://github-readme-stats-allan-cff.vercel.app/api/wakatime?username=allan_cff&theme=vision-friendly-dark&hide_border=true&langs_count=5" />
+      <img src="https://github-readme-stats-allan-cff.vercel.app/api/wakatime?username=allan_cff&theme=vision-friendly-dark&hide_border=true&langs_count=5&range=last_7_days" />
     </p>
 </details>
 <details open>
